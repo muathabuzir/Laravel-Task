@@ -3,7 +3,7 @@
 <b>Description</b>
 
 <p>
-    This Clone for search using <a href="https://cse.google.com/cse/">Google Custom Search</a>.
+    This Project for search using <a href="https://cse.google.com/cse/">Google Custom Search</a>.
 </p>
 <p>
     User can save result with comment, edit and delete. 
